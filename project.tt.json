@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "interview-duck-web",
+  "description": "面面鸭前端项目",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
